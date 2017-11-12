@@ -1,0 +1,10 @@
+C:\Users\พีท\Documents\C# PEET\coffee_pos_603410155-3\coffee_pos_603410155-3\bin\Debug\coffee_pos_603410155-3.exe.config
+C:\Users\พีท\Documents\C# PEET\coffee_pos_603410155-3\coffee_pos_603410155-3\bin\Debug\coffee_pos_603410155-3.exe
+C:\Users\พีท\Documents\C# PEET\coffee_pos_603410155-3\coffee_pos_603410155-3\bin\Debug\coffee_pos_603410155-3.pdb
+C:\Users\พีท\Documents\C# PEET\coffee_pos_603410155-3\coffee_pos_603410155-3\obj\Debug\coffee_pos_603410155-3.csprojResolveAssemblyReference.cache
+C:\Users\พีท\Documents\C# PEET\coffee_pos_603410155-3\coffee_pos_603410155-3\obj\Debug\coffee_pos_603410155_3.Form1.resources
+C:\Users\พีท\Documents\C# PEET\coffee_pos_603410155-3\coffee_pos_603410155-3\obj\Debug\coffee_pos_603410155_3.Properties.Resources.resources
+C:\Users\พีท\Documents\C# PEET\coffee_pos_603410155-3\coffee_pos_603410155-3\obj\Debug\coffee_pos_603410155-3.csproj.GenerateResource.Cache
+C:\Users\พีท\Documents\C# PEET\coffee_pos_603410155-3\coffee_pos_603410155-3\obj\Debug\coffee_pos_603410155-3.csproj.CoreCompileInputs.cache
+C:\Users\พีท\Documents\C# PEET\coffee_pos_603410155-3\coffee_pos_603410155-3\obj\Debug\coffee_pos_603410155-3.exe
+C:\Users\พีท\Documents\C# PEET\coffee_pos_603410155-3\coffee_pos_603410155-3\obj\Debug\coffee_pos_603410155-3.pdb
