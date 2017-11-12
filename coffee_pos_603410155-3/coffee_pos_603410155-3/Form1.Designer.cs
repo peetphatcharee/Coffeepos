@@ -1169,10 +1169,11 @@
             this.label34.AutoSize = true;
             this.label34.Location = new System.Drawing.Point(35, 31);
             this.label34.Name = "label34";
-            this.label34.Size = new System.Drawing.Size(408, 48);
+            this.label34.Size = new System.Drawing.Size(383, 48);
             this.label34.TabIndex = 0;
             this.label34.Text = "ผู้จัดทำ : นางสาวพัชรี   แอแป\r\nGifhub:https://github.com/peetphatcharee/Coffeepos" +
-    ".git";
+    "";
+            this.label34.Click += new System.EventHandler(this.label34_Click);
             // 
             // Form1
             // 

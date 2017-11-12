@@ -442,5 +442,10 @@ namespace coffee_pos_603410155_3
         {
 
         }
+
+        private void label34_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
